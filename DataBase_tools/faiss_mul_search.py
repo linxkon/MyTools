@@ -37,7 +37,7 @@ def search(query, k=1):
     
     return vector_results, keyword_results
 # 测试搜索功能
-query = "final"
+query = "final了"
 vector_results, keyword_results = search(query, k=2)
 print("Vector search results:")
 for result in vector_results:
