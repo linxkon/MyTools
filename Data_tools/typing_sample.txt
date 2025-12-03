@@ -1,0 +1,4 @@
+Advantage	优势
+Loss function	损失函数
+Clip	剪裁
+GAE	广义优势估计
